@@ -1,4 +1,4 @@
-# Sonus (Laravel 45Package)
+# Sonus (Laravel 5 Package)
 
 
 **** NOTE ****
